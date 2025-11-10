@@ -6,9 +6,9 @@ O "Sistema de Gerenciamento de Eventos" é uma solução de software completa de
 
 A plataforma atende a três perfis essenciais:
 
-* **Participantes: Podem consultar e comprar ingressos para eventos disponíveis.
-* **Organizadores: Gerenciam seus eventos, lotes de ingressos e acompanham listas de inscritos.
-* **Administradores: Mantêm o controle total do sistema, incluindo gestão de usuários e relatórios financeiros consolidados.
+* Participantes: Podem consultar e comprar ingressos para eventos disponíveis.
+* Organizadores: Gerenciam seus eventos, lotes de ingressos e acompanham listas de inscritos.
+* Administradores: Mantêm o controle total do sistema, incluindo gestão de usuários e relatórios financeiros consolidados.
 
 ## 🚀 Principais Módulos
 
