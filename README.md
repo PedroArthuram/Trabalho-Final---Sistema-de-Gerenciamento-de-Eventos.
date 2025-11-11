@@ -28,7 +28,7 @@ Utilize os recursos externos abaixo para rastrear o progresso, visualizar o cron
 | Recurso | Descrição | Link de Acesso |
 | :--- | :--- | :--- |
 | Documento de Requisitos (Matriz) | Contém todos os Requisitos Funcionais, Não Funcionais e as Matrizes de Rastreabilidade do projeto. | [Acessar Documento Completo](https://drive.google.com/file/d/1-caoMyVyIwO5R17opQTFZtZr4FViPGnE/view) |
-| Cronograma (Trello) | Quadro de acompanhamento de tarefas, fases de desenvolvimento e prazos. | [Acessar Quadro Trello](https://trello.com/b/KuCQZZ1y) |
+| Cronograma (Trello) | Quadro de acompanhamento de tarefas, fases de desenvolvimento e prazos. | [Acessar Quadro Trello](https://trello.com/b/INu6Qo3Q/engenharia-de-software-i-gerenciamento-de-eventos) |
 
 ---
 
